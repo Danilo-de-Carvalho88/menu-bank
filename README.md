@@ -1,0 +1,44 @@
+<h1 align="center">
+    <img src="imagens/logo.png">
+    <p>MenuBank</p>
+</h1>
+
+<h1>
+<img src="imagens/MenuBank.gif" alt="Gif do menu bank">
+</h1>
+
+<h3 align="center">
+    <a href="#">Acessar a demosntração</a>
+</h3>
+
+# Indice
+
+- [Sobre](#-sobre)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Como baixar o projeto](#-como-baixar-o-projeto)
+---
+## 📝Sobre
+
+O projeto **MenuBank** foi criado para demonstrar uma simples criação de menu para página web tendo a utilização do **FlexBox do CSS** como principal ferramenta para posicionamento dos elementos.
+
+---
+## 💻 Tecnologias utilizadas
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- HTML
+- CSS (FexBox)
+
+---
+
+## 💽 Como baixar o projeto
+
+1 - Clone o projeto
+
+```bash
+    $ git clone
+```
+
+Desenvolvido por Danilo de Carvalho 😎
+
+

@@ -8,10 +8,10 @@
 </h1>
 
 <h3 align="center">
-    <a href="https://danilo-de-carvalho88.github.io/menu-bank/">Acessar a demosntração</a>
+    <a href="https://danilo-de-carvalho88.github.io/menu-bank/">Acessar a demonstração</a>
 </h3>
 
-# Indice
+# Índice
 
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
@@ -45,7 +45,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
     $ cd menu-bank 
 ```
 
-3 - Instalar as depências.
+3 - Instalar as dependências.
 
 ```bash
     $ yarn install 

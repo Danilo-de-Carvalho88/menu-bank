@@ -54,7 +54,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 4 - Iniciar o projeto.
 
 ```bash
-    $ yarn star
+    $ yarn start
 ```
 
 Desenvolvido por Danilo de Carvalho 😎

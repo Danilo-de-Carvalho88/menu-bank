@@ -33,10 +33,28 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 💽 Como baixar o projeto
 
-1 - Clone o projeto
+1 - Clonar o repositório.
 
 ```bash
-    $ git clone
+    $ git clone https://danilo-de-carvalho88.github.io/menu-bank/
+```
+
+2 - Entrar no diretório.
+
+```bash
+    $ cd menu-bank 
+```
+
+3 - Instalar as depências.
+
+```bash
+    $ yarn install 
+```
+
+4 - Iniciar o projeto.
+
+```bash
+    $ yarn star
 ```
 
 Desenvolvido por Danilo de Carvalho 😎

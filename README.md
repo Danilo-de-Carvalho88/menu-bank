@@ -27,7 +27,7 @@ O projeto **MenuBank** foi criado para demonstrar uma simples criação de menu 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - HTML
-- CSS (FexBox)
+- CSS
 
 ---
 

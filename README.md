@@ -36,7 +36,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 1 - Clonar o repositório.
 
 ```bash
-    $ git clone https://danilo-de-carvalho88.github.io/menu-bank/
+    $ git clone https://github.com/Danilo-de-Carvalho88/menu-bank.git
 ```
 
 2 - Entrar no diretório.
